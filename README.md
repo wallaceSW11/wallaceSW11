@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Trabalhando com Delphi a 2 anos e em conjunto mergulhando no mundo Fullstack... Me dedicando ao React e dot net para as oportunidades da vida...
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=wallacesw11)
+
+<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
+
+
 <!--
 **wallaceSW11/wallaceSW11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
