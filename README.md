@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-- 🔭 Trabalhando com Delphi a 2 anos e em conjunto mergulhando no mundo Fullstack... Me dedicando ao React e dot net para as oportunidades da vida...
+- 🔭 Welcome to my portfolio !!!
+
+At this moment I'm a Delphi developer, but, I'm always getting news techologies, Fullstack developer.
+
+As you can see, I'm have some projects in VueJS, React, .Net, Node, etc...
+
+I love to study and learn new things...
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=wallacesw11)
 
